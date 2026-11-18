@@ -1,6 +1,6 @@
 # 高性价比大学生活指南
 
-GitHub 发布用仓库名为 `BetterCollegeLife`。
+GitHub 仓库为 [Rain-dust/BetterCollegeLife](https://github.com/Rain-dust/BetterCollegeLife)。
 
 给中国大学生的一份生活指南。想在食堂吃到喜欢的饭、周末去听一场演出、在寝室睡个好觉，或是留一晚上和朋友打球，这些都值得。想准备升学、实习、就业或者试试创业，也可以从一件小事开始。
 
@@ -27,4 +27,8 @@ GitHub 发布用仓库名为 `BetterCollegeLife`。
 - [逐条来源](docs/逐条来源.md)记录每条建议用了哪些资料，以及价格、时间、资格和授权的核查结果。
 - [投稿模板](CONTRIBUTING.md)欢迎补充你在普通本科、高职、走读或偏远校区亲自试过的办法。花了多少钱、什么地方扑空了、最后怎么玩成了，都可以写。
 
-感谢[《高性价比人生指南》](https://github.com/eternity4719/HowToLiveBetter)启发本项目的目录、行动条目、成本收益和证据标注。其他校园手册、学校、场馆与社区资料见[已有资料盘点](docs/已有资料盘点.md)。本版内容许可待维护者确认。
+感谢[《高性价比人生指南》](https://github.com/eternity4719/HowToLiveBetter)启发本项目的目录、行动条目、成本收益和证据标注。其他校园手册、学校、场馆与社区资料见[已有资料盘点](docs/已有资料盘点.md)。
+
+## 许可
+
+本指南的原创正文按 [CC BY 4.0](LICENSE) 发布。转载或改编时请保留作者与来源、附许可链接，并注明改动。引用的第三方材料按各自权利声明使用。投稿采用同一许可，详见[投稿与纠错](CONTRIBUTING.md)。
